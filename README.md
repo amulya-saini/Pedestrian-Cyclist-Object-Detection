@@ -25,11 +25,12 @@ https://pjreddie.com/darknet/yolo/
  
 I got my video files from the client, however, if you are learning you can get similar videos from the web. One such website that I like: https://www.pexels.com/search/videos/pedestrians/
 
-The links below lead to videos that show the footage both before and after annotations:
-1, https://youtu.be/kmZ-NZzmhMY (Not yet annotated)
-2, https://youtu.be/Zlq10-vJgm0 (Not yet annotated)
-3, 
-4, 
+## The links below lead to videos that show the footage both before and after annotations:
+
+1. https://youtu.be/kmZ-NZzmhMY (Not yet annotated)
+2. https://youtu.be/Zlq10-vJgm0 (Not yet annotated)
+3. 
+4. 
 
 ## Required Packages:
 1. **OpenCV (cv2):** OpenCV is a crucial library for computer vision tasks. Install it using:

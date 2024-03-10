@@ -6,7 +6,7 @@
 The implementation includes the detection of both pedestrians and cyclists, providing a versatile solution for scenarios involving various moving entities.
 
 **OpenCV Integration:** 
-Leveraging the powerful OpenCV library, the project seamlessly processes video frames, extracts relevant information, and annotates objects with bounding boxes.
+The project uses the powerful OpenCV library to seamlessly process video frames, extract relevant information, and annotate objects with bounding boxes.
 
 **YOLO Integration:**
 The YOLO model, specifically YOLOv3, is integrated for accurate and efficient object detection. The configuration files and weights are included for ease of use.
@@ -20,17 +20,17 @@ The YOLO model, specifically YOLOv3, is integrated for accurate and efficient ob
 3. **COCO Names File:** Download the COCO names file (coco.names) from the COCO dataset website and save it as "coco.names".
 4. **Video File:** Provide the input video file in a common format (e.g., MP4) and update the file name in the code (replace "production_id_4791196.mp4" with your video file).
 
-The below link will take you to "YOLO: Real-Time Object Detection" webpage, you can download the yolov3.weights and yolov3.cfg file:
+The below link will take you to the "YOLO: Real-Time Object Detection" webpage, you can download the yolov3.weights and yolov3.cfg file:
 https://pjreddie.com/darknet/yolo/
  
 I got my video files from the client, however, if you are learning you can get similar videos from the web. One such website that I like: https://www.pexels.com/search/videos/pedestrians/
 
-## The links below lead to videos that show the footage both before and after annotations:
+## The links below will lead to videos that show the footage both before and after annotations:
 
 1. https://youtu.be/kmZ-NZzmhMY (Not yet annotated)
 2. https://youtu.be/Zlq10-vJgm0 (Not yet annotated)
-3. 
-4. 
+3. https://youtu.be/9ASyzAXzn7Y (annotated)
+4. https://youtu.be/UNazEjO-pwc (annotated)
 
 ## Required Packages:
 1. **OpenCV (cv2):** OpenCV is a crucial library for computer vision tasks. Install it using:

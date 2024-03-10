@@ -30,3 +30,14 @@ I got my video files from the client, however, if you are learning you can get s
 1. **OpenCV (cv2):** OpenCV is a crucial library for computer vision tasks. Install it using:
    ```bash
    pip install opencv-python
+   
+2. **NumPy (np):**  NumPy is used for numerical operations. Install it using:
+   ```bash
+   pip install numpy
+
+## Installation Steps:
+1. Download the YOLOv3 weights, configuration file, and COCO names file.
+2. Install the required packages using the provided commands.
+3. Place the downloaded files in the same directory as your code file.
+4. Replace the video file name in the code with your specific video file.
+5. Run the code, and the output will be saved as "annotated.avi."

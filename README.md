@@ -1,2 +1,15 @@
-# Pedestrian-Cyclist-Object-Detection
-Welcome to my "Pedestrian-Cyclist-Object-Detection" GitHub project. I created this tool to detect pedestrians and cyclists in videos, simplifying my daily tasks as an RA who helped in image annotation at work. The project utilizes the YOLOv3 deep learning framework for efficient object detection.
+# Pedestrian & Cyclist Detection
+
+# Key Features:
+
+**Multi-Object Detection:**
+The implementation includes the detection of both pedestrians and cyclists, providing a versatile solution for scenarios involving various moving entities.
+
+**OpenCV Integration:** 
+Leveraging the powerful OpenCV library, the project seamlessly processes video frames, extracts relevant information, and annotates objects with bounding boxes.
+
+**YOLO Integration:**
+The YOLO model, specifically YOLOv3, is integrated for accurate and efficient object detection. The configuration files and weights are included for ease of use.
+
+**Pre-Annotated Output:**
+ The output video is pre-annotated with bounding boxes around detected objects, enabling easy visualization of the model's performance.
